@@ -1,0 +1,6 @@
+requests==2.25.1
+sodapy==2.1.0
+argparse == 1.4.0
+datetime == 4.3
+elasticsearch == 7.11.0
+requests.auth == 5.2.0
