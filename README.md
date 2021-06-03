@@ -1,2 +1,2 @@
 # bigdatatech_elasticsearch
-![readme.pdf](yeungstiris/bigdatatech_elasticsearch/readme.pdf)
+![readme.pdf](bigdatatech_elasticsearch/readme.pdf)
